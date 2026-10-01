@@ -2,7 +2,7 @@
 #include <math.h>
 #include <locale.h>
 
-#define M_PI 3.14159265358979323846  // шаг 2: константа Пи
+#define M_PI 3.14159265358979323846
 
 int main(void)
 {
